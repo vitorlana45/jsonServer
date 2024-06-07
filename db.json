@@ -1,8 +1,8 @@
 {
   "customers": [
     {
-      "NAME": "GHOST APPS",
-      "CONTACT": "ghostapps@apps.com",
+      "NAME": "GHOST APPS 1",
+      "CONTACT": "ghostapps1@apps.com",
       "USERS": {
         "U1": {
           "SITE_MAIN_URL": "https://google.com.br/",
@@ -13,9 +13,259 @@
           "AD_MANUAL": false,
           "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
           "AD_MOB": false,
-          "NAME_CONTACT": "FULANO DE TAL"
+          "NAME_CONTACT": "FULANO DE TAL 1"
         }
       }
-    }
+    },
+    {
+      "NAME": "GHOST APPS 2",
+      "CONTACT": "ghostapps2@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 2"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 3",
+      "CONTACT": "ghostapps3@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 3"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 4",
+      "CONTACT": "ghostapps4@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 4"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 5",
+      "CONTACT": "ghostapps5@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 5"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 6",
+      "CONTACT": "ghostapps6@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 6"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 7",
+      "CONTACT": "ghostapps7@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 7"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 8",
+      "CONTACT": "ghostapps8@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 8"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 9",
+      "CONTACT": "ghostapps9@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 9"
+        }
+      }
+    },
+    {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    },
+     {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    }, {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    }, {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    }, {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    }, {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    }, {
+      "NAME": "GHOST APPS 10",
+      "CONTACT": "ghostapps10@apps.com",
+      "USERS": {
+        "U1": {
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL 10"
+        }
+      }
+    },
   ]
 }
