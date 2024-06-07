@@ -1,30 +1,17 @@
 {
-  "customers": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john.doe@example.com",
-      "phone": "+1-555-1234",
-      "address": {
-        "street": "123 Main St",
-        "city": "Anytown",
-        "state": "CA",
-        "postalCode": "12345",
-        "country": "USA"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com",
-      "phone": "+1-555-5678",
-      "address": {
-        "street": "456 Elm St",
-        "city": "Othertown",
-        "state": "NY",
-        "postalCode": "67890",
-        "country": "USA"
-      }
+    "NAME": "GHOST APPS",
+    "CONTACT": "ghostapps@apps.com",
+    "USERS": {
+        "U1": {
+            "SITE_MAIN_URL": "https://google.com.br/",
+            "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+            "SITE_DONT_PAY": "htpps://redy.me",
+            "ACTIVE": true,
+            "PLAN_LVL": 3,
+            "AD_MANUAL": false,
+            "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+            "AD_MOB": false,
+            "NAME_CONTACT": "FULANO DE TAL"
+        }
     }
-  ]
 }
