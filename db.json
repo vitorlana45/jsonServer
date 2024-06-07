@@ -1,17 +1,21 @@
 {
-    "NAME": "GHOST APPS",
-    "CONTACT": "ghostapps@apps.com",
-    "USERS": {
+  "customers": [
+    {
+      "NAME": "GHOST APPS",
+      "CONTACT": "ghostapps@apps.com",
+      "USERS": {
         "U1": {
-            "SITE_MAIN_URL": "https://google.com.br/",
-            "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
-            "SITE_DONT_PAY": "htpps://redy.me",
-            "ACTIVE": true,
-            "PLAN_LVL": 3,
-            "AD_MANUAL": false,
-            "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
-            "AD_MOB": false,
-            "NAME_CONTACT": "FULANO DE TAL"
+          "SITE_MAIN_URL": "https://google.com.br/",
+          "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
+          "SITE_DONT_PAY": "https://redy.me",
+          "ACTIVE": true,
+          "PLAN_LVL": 3,
+          "AD_MANUAL": false,
+          "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
+          "AD_MOB": false,
+          "NAME_CONTACT": "FULANO DE TAL"
         }
+      }
     }
+  ]
 }
